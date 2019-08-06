@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoAppCoreAzureMongo", "ToDoAppCoreAzureMongo\ToDoAppCoreAzureMongo.csproj", "{FAB48C2B-66DD-4FF9-9742-8849F5101F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{EC2B098F-FC5A-4AF9-8CCD-AAE3FB4A22DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB48C2B-66DD-4FF9-9742-8849F5101F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB48C2B-66DD-4FF9-9742-8849F5101F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB48C2B-66DD-4FF9-9742-8849F5101F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB48C2B-66DD-4FF9-9742-8849F5101F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2B098F-FC5A-4AF9-8CCD-AAE3FB4A22DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2B098F-FC5A-4AF9-8CCD-AAE3FB4A22DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2B098F-FC5A-4AF9-8CCD-AAE3FB4A22DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2B098F-FC5A-4AF9-8CCD-AAE3FB4A22DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {060EEB32-F690-493F-9181-4E2BEAA6F25F}
+	EndGlobalSection
+EndGlobal
